@@ -30,7 +30,8 @@
     "url": "https://github.com/bumbeishvili/d3-organization-chart.git"
   },
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodem index.js",
+    "dev": "nodemon index.js"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
